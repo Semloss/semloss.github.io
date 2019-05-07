@@ -3,5 +3,5 @@ layout: archive
 title: Python
 permalink: /python/
 category: "python"
-tagline: "It is Python"
+tagline: "非常强大"
 ---
