@@ -12,7 +12,7 @@ description: A place to learm.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://semloss.github.io" # the base hostname & protocol for your site
 #twitter_username: hemang_kumar
-github_username:  semonchang
+github_username:  semloss
 paginate: 20
 #theme-dark: false #Set to true to change to dark website theme
 theme-dark: true #Set to true to change to dark website theme
