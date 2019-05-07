@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Design
-permalink: /design/
-category: "design"
-tagline: "it's all about perception."
+title: Python
+permalink: /python/
+category: "python"
+tagline: "It is Python"
 ---
